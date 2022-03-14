@@ -1,0 +1,71 @@
+#border{
+    width: 25%;
+    height: 50%;
+    border-width: 0px;
+    border-style: solid;
+    margin: auto;
+    padding: 10px;
+
+}
+#timer{
+    margin-left: 35%;
+    
+    padding: 10px;    
+}
+
+#image{
+    background-image: url("0e6068eb08dddb94950bbb177abf1c52.jpg");
+}
+#bottom{
+    margin:10px;
+    display: inline;
+    color: rgb(163, 156, 156);
+
+}
+#foot{
+    margin-top: 20%;
+    padding-top: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: beige;
+    
+}
+.timer{
+    color: chocolate;
+    font-size: 500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.inputbox{
+    width: 80%;
+    height: 70px;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 30px;    
+}
+.submit{
+    width: 80%;
+    height: 70px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 37px; 
+    background-color: chocolate;
+    color: white;
+    border-width: 0px;  } 
+
+.firstb{
+    margin: 10px;  
+}
+.mi{
+    margin-left: 45%;
+}
+.secb{
+    width: 25%;
+    display: grid;
+}
+.thrb{
+    width: 25%;
+    float:right;
+}
