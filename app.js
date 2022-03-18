@@ -17,3 +17,11 @@ if (timeleft < 0) {
     document.getElementById("demo").innerHTML = "TIME UP!!";
 }
 },1000)
+
+
+
+
+
+
+
+
