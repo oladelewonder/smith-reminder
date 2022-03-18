@@ -1,4 +1,4 @@
-var countDownDate = new Date("march 20, 2022 04:09:30").getTime();
+var countDownDate = new Date("march 19, 2022 ,20:00 ").getTime();
 var myFunc = setInterval(function(){
     var now = new Date().getTime();
     var timeLeft = countDownDate - now;
